@@ -14,3 +14,14 @@
 ## С чего начать?
 Обратитесь к менеджерам нашего [Telegram](https://t.me/vpn_myitedu) канала и они проконсультируют Вас по предоставляемым услугам.
 ## Как подключить?
+После оплаты вы получите данные для входа в [Личный кабинет](https://vpn.myitedu.ru/) сервиса в формате: логин / пароль.
+## Как настроить?
+- перейдите на страницу входа в свой [Личный кабинет](https://vpn.myitedu.ru/);
+- авторизуйтесь с помощью почты "Sing in with email";
+![image](https://github.com/vm3nk0/vpn/assets/102372844/a7b29869-3b95-4dff-bc5f-8cdcfd28a256)
+- добавьте устройство "Add Device";
+![image](https://github.com/vm3nk0/vpn/assets/102372844/9af88014-2a2f-4623-9e46-f1a834f00178)
+- заполните имя устройства "Name", и при желании дайте описание "Description" (**имя устройства должно быть латиницей**), после чего создайте конфигурацию для устройства "Generate configuration";
+![image](https://github.com/vm3nk0/vpn/assets/102372844/16979651-4e8e-4a8b-8f5f-6a917ab5fdff)
+- воспользуйтесь удобным для вас методом испорта файла настроек в приложение [WireGuard](https://www.wireguard.com/install/): загрузите файл конфигурации "Download WireGuard Configuration", или отсканируйте QR-код
+![image](https://github.com/vm3nk0/vpn/assets/102372844/ee60b877-fdfa-4482-9914-02b27cf6102c)
