@@ -1,7 +1,2 @@
 # Краткое руководство по настройке
-Поддерживаемые платформы:
-Windows;
-Linux;
-macOS;
-iOS;
-Android.
+Поддерживаемые платформы:<br>Windows;<br>Linux;<br>macOS;<br>iOS;<br>Android.
