@@ -23,8 +23,8 @@
 - добавьте устройство "Add Device";
 ![image](https://github.com/vm3nk0/vpn/assets/102372844/fc385538-8cf5-4766-81c9-47a3b15f4304)
 - заполните имя устройства "Name", и при желании дайте описание "Description" (**имя устройства должно быть латиницей**), после чего создайте конфигурацию для устройства "Generate configuration";
-![image](https://github.com/vm3nk0/vpn/assets/102372844/205aeb27-0b3c-432f-a1f4-1b0245ae7610)
+![image](https://github.com/vm3nk0/vpn/assets/102372844/c8fd932e-a4c8-45e9-8c8c-feb5ed4377dd)
 - воспользуйтесь удобным для вас методом испорта файла настроек в приложение [WireGuard](https://www.wireguard.com/install/): загрузите файл конфигурации "Download WireGuard Configuration", или отсканируйте QR-код
-![image](https://github.com/vm3nk0/vpn/assets/102372844/a4092e71-4e9e-48e1-b011-92a442c33d2e)
+![image](https://github.com/vm3nk0/vpn/assets/102372844/a36804d8-2b71-4559-8e00-a3a6bea2e085)
 # Обратите внимание!
 Парметры конфигурации генерируются единоразово. В случае потери файла профиля необходимо создать конфигурацию повторно.
