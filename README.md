@@ -2,6 +2,7 @@
 Больше не получается войти на любимые сайты? Не беда!<br>
 Наш сервис позволит Вам больше не беспокоится о блокировках.<br>
 У нас вы получите собственный управляемый VPN с возможностью подключения 3х устройств, работающий по одному из самых быстрых VPN протоколов - [WireGuard](https://www.wireguard.com/)<br>
+А благодаря удобному интейфейсу [Firezone](https://github.com/firezone/firezone) подключение новых устройств не составит никакого труда.
 Поддерживаемые платформы: Windows, Linux; macOS; iOS; Android.<br>
 [Ссылка](https://www.wireguard.com/install/) для скачивания приложения.
 ### Преимущества
@@ -18,10 +19,12 @@
 ## Как настроить?
 - перейдите на страницу входа в свой [Личный кабинет](https://vpn.myitedu.ru/);
 - авторизуйтесь с помощью почты "Sing in with email";
-![image](https://github.com/vm3nk0/vpn/assets/102372844/a7b29869-3b95-4dff-bc5f-8cdcfd28a256)
+![image](https://github.com/vm3nk0/vpn/assets/102372844/1d7a3d08-285d-458c-baea-889071370e46)
 - добавьте устройство "Add Device";
-![image](https://github.com/vm3nk0/vpn/assets/102372844/9af88014-2a2f-4623-9e46-f1a834f00178)
+![image](https://github.com/vm3nk0/vpn/assets/102372844/fc385538-8cf5-4766-81c9-47a3b15f4304)
 - заполните имя устройства "Name", и при желании дайте описание "Description" (**имя устройства должно быть латиницей**), после чего создайте конфигурацию для устройства "Generate configuration";
-![image](https://github.com/vm3nk0/vpn/assets/102372844/16979651-4e8e-4a8b-8f5f-6a917ab5fdff)
+![image](https://github.com/vm3nk0/vpn/assets/102372844/205aeb27-0b3c-432f-a1f4-1b0245ae7610)
 - воспользуйтесь удобным для вас методом испорта файла настроек в приложение [WireGuard](https://www.wireguard.com/install/): загрузите файл конфигурации "Download WireGuard Configuration", или отсканируйте QR-код
-![image](https://github.com/vm3nk0/vpn/assets/102372844/ee60b877-fdfa-4482-9914-02b27cf6102c)
+![image](https://github.com/vm3nk0/vpn/assets/102372844/a4092e71-4e9e-48e1-b011-92a442c33d2e)
+# Обратите внимание!
+Парметры конфигурации генерируются единоразово. В случае потери файла профиля необходимо создать конфигурацию повторно.
