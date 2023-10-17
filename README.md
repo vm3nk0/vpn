@@ -22,7 +22,7 @@
 ![image](https://github.com/vm3nk0/vpn/assets/102372844/1d7a3d08-285d-458c-baea-889071370e46)
 - добавьте устройство "Add Device";
 ![image](https://github.com/vm3nk0/vpn/assets/102372844/fc385538-8cf5-4766-81c9-47a3b15f4304)
-- заполните имя устройства "Name", и при желании дайте описание "Description" (**имя устройства должно быть латиницей**), после чего создайте конфигурацию для устройства "Generate configuration";
+- заполните имя устройства "Name", и при желании дайте описание "Description" (**имя устройства должно быть латиницей и без пробелов**), после чего создайте конфигурацию для устройства "Generate configuration";
 ![image](https://github.com/vm3nk0/vpn/assets/102372844/c8fd932e-a4c8-45e9-8c8c-feb5ed4377dd)
 - воспользуйтесь удобным для вас методом испорта файла настроек в приложение [WireGuard](https://www.wireguard.com/install/): загрузите файл конфигурации "Download WireGuard Configuration", или отсканируйте QR-код
 ![image](https://github.com/vm3nk0/vpn/assets/102372844/a36804d8-2b71-4559-8e00-a3a6bea2e085)
